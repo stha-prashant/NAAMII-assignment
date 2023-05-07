@@ -1,5 +1,4 @@
 # NAAMII-assignment
-Repo for assignment by NAAMII for RA application
 
 The assignment was completed using a notebook on kaggle. To run the code, first:
 1. Clone the repo using `git clone`
