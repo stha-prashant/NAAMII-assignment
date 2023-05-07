@@ -9,4 +9,3 @@ The assignment was completed using a notebook on kaggle. To run the code, first:
 
 Then, run the code blocks one by one.
 
-The notebook is also publicly available at kaggle for easy execution: https://www.kaggle.com/prashantshrestha78/naamii-assignment-prashant
