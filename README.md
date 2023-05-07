@@ -8,4 +8,5 @@ The assignment was completed using a notebook on kaggle. To run the code, first:
 5. Change the `save_path` variable inside the `.ipynb` file to any location where you require output plots to be saved.
 
 Then, run the code blocks one by one.
+A copy of the notebook is also available on kaggle for easy execution: [notebook link](https://www.kaggle.com/code/prashantshrestha78/naamii-assignment-prashant)
 
